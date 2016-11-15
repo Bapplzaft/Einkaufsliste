@@ -22,4 +22,4 @@ seit 2013 HFU Furtwangen
 ###Hobbys
 
 Ook! programmieren
-Aber nicht weil ich ein Orangutan bin.
+Aber nicht weil ich ein Orang Utan bin.
