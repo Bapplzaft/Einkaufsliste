@@ -7,18 +7,19 @@ Name: Lars Vegas
 
 Wohnort: Las Vegas
 
-Alter: 102
+Alter: 91
 
 Programmiersprachen: Ook!
 
 
 ###Schulischer Werdegang
 
-2007 - 2013:  Ook! Academy
+2005 - 2013:  Ook! Academy
 
-2013 - heute: HFU Furtwangen
+seit 2013 HFU Furtwangen
 
 
 ###Hobbys
 
 Ook! programmieren
+Aber nicht weil ich ein Orangutan bin.
