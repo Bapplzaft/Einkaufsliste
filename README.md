@@ -1,6 +1,6 @@
 #Lebenslauf
 
-!(Bild.png)
+![](Bild.png)
 
 ###Angaben zur Person
 
