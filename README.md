@@ -22,4 +22,3 @@ Programmiersprachen: Ook!
 ###Hobbys
 
 Ook! programmieren
->>>>>>> eb43a73ac15ba322217e51ed3dac12fba45e3cdb
